@@ -1,28 +1,29 @@
 # Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
 
-Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
+Sturdy Octo Disco is a small and fun project where I added sunglasses to photos using image processing.
 
-Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sunglasses on individual passport photos! This repository demonstrates how to use image processing techniques to create a playful transformation, making ordinary photos look extraordinary. Whether you're a beginner exploring computer vision or just looking for a quirky project to try, this is for you!
+This project focuses on taking a normal passport-size image, detecting the face, and placing sunglasses on it automatically. It helped me understand how basic computer vision works in a practical way. It is simple and useful for beginners who want to try something creative.
 
-## Features:
-- Detects the face in an image.
-- Places a stylish sunglass overlay perfectly on the face.
-- Works seamlessly with individual passport-size photos.
-- Customizable for different sunglasses styles or photo types.
+## Features
+- Detects the face in an image  
+- Places sunglasses properly on the face  
+- Works well with passport-size photos  
+- Can be modified with different sunglasses styles  
 
-## Technologies Used:
-- Python
-- OpenCV for image processing
-- Numpy for array manipulations
+## Technologies Used
+- Python  
+- OpenCV (for image processing)  
+- NumPy (for array handling)  
 
-## How to Use:
-1. Clone this repository.
-2. Add your passport-sized photo to the `images` folder.
-3. Run the script to see your "cool" transformation!
+## How to Use
+- Clone this repository  
+- Add your passport-size image to the `images` folder  
+- Run the script  
+- View the output image with sunglasses  
 
-## Applications:
-- Learning basic image processing techniques.
-- Adding flair to your photos for fun.
-- Practicing computer vision workflows.
+## Applications
+- Learning basic image processing  
+- Trying simple photo editing  
+- Practicing computer vision concepts  
 
-Feel free to fork, contribute, or customize this project for your creative needs!
+You can modify or improve this project by adding new features or trying different styles.
